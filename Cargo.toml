@@ -1,0 +1,8 @@
+[package]
+name = "inix"
+version = "0.0.0"
+edition = "2021"
+license = "BSD-3-Clause"
+description = "An upcoming ini extension"
+
+[dependencies]
